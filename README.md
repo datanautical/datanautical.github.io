@@ -53,9 +53,9 @@ The focus of this project is on statistical rigor, reproducibility, and clear bu
 
 ### Summary
 
-This project uses interactive Tableau visualizations to explore the relationship between median household income, poverty rate, and unemployment across U.S. states.
+This project uses Tableau to explore the relationship between median household income, poverty rate, and unemployment across U.S. states.
 
-Through a series of scatter plots and a geographic dashboard, the analysis reveals a consistent inverse relationship between income and unemployment, and a direct relationship between poverty and unemployment. The visuals highlight important outliers, regional patterns, and income-stratified comparisons that demonstrate unemployment outcomes are not evenly distributed, even among economically similar states.
+Through a series of scatter plots and a geographic dashboard, the analysis reveals a consistent inverse relationship between income and unemployment, and a direct relationship between poverty and unemployment. The visuals highlight important outliers, regional patterns, and income-stratified comparisons that demonstrate unemployment outcomes are not evenly distributed.
 
 The goal of this project is to demonstrate how thoughtful visual encoding, filtering, and dashboard design can turn raw data into clear, exploratory insight for decision makers.
 
