@@ -6,7 +6,7 @@
 
 ## 🚀 Featured Projects
 
-Below are three projects I’m most proud of right now. Each includes a short overview and a link to the repo.
+Below are the featured projects I’m most proud of right now. Each includes a short overview and a link to the repo.
 
 ---
 
