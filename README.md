@@ -41,6 +41,8 @@ The focus of this project is on statistical rigor, reproducibility, and clear bu
 - Matplotlib
 - Jupyter Notebook
 
+**Repo:** https://github.com/datanautical/Turning_Churn
+
 ---
 
 ### 2) **PROJECT NAME #2**
@@ -56,7 +58,7 @@ The focus of this project is on statistical rigor, reproducibility, and clear bu
 
 **Tech Stack:** (list tools)
 
-**Repo:** https://github.com/YOUR-USERNAME/YOUR-REPO-2  
+**Repo:** 
 **Demo (optional):** https://link-to-demo-or-screenshots
 
 ---
