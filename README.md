@@ -13,6 +13,7 @@ Below are the featured projects I’m most proud of right now. Each includes a s
 ### 1) **Turning Churn into Opportunity**
 **Do contract terms have an impact on customer churn?**
 
+
 ### Summary
 
 This project applies statistical analysis to a telecommunications dataset to determine whether customer contract type is significantly associated with churn behavior. Using the Chi-Square Test of Independence and Cramér’s V effect size, my analysis demonstrates that month-to-month customers churn at substantially higher rates than long-term contract customers.
@@ -49,7 +50,6 @@ The focus of this project is on statistical rigor, reproducibility, and clear bu
 ### 2) **Data Visualization: Income, Poverty, and Unemployment Patterns**
 **How do income and poverty levels relate to unemployment across U.S. states?**
 
----
 
 ### Summary
 
